@@ -1,0 +1,62 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_699A226B_6689_4DEE_41CE_89708CA9F175.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699A926C_6689_4DEA_41CB_5EFFF0A30596.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_69983275_6689_4DFA_41C8_88997EC62167.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_69990275_6689_4DFA_41B2_EB64E7919507.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_69998276_6689_4DE6_41C0_0DF304BCFF32.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699FA26A_6689_4DEE_41D1_E32FACA7F0D2.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699CC26A_6689_4DEE_41D0_B7FAF7DD4E31.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699C826A_6689_4DEE_41B4_756598E50AAF.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699D226B_6689_4DEE_41BB_59C91EC0BB8E.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699D126B_6689_4DEE_4187_AF2322E9EB63.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699A626B_6689_4DEE_41B5_0977DD87A4B0.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_6999165A_6689_5528_4171_107A6998BD42.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699AE26B_6689_4DEE_41D6_DFE19EEEEEAF.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699D826C_6689_4DEA_41D4_FFDE2CBBD857.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699A426C_6689_4DEA_41D0_11F483CB5456.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699AE26C_6689_4DEA_41C3_5C1EDA34D18B.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699B726D_6689_4DEA_41CB_DBB8109985C2.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699B226D_6689_4DEA_41D7_2D90AB50D023.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699BA26D_6689_4DEA_41CB_8E6335D3D061.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_6998C26D_6689_4DEA_41D4_876B848FCA8E.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_6999726E_6689_4DE6_41D8_184D790E3971.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_69997275_6689_4DFA_41D8_853F2B212D67.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+LinkBehaviour_699BB275_6689_4DFA_41C8_C943B4EDAC13.source = https://www.invictusimoveis.com.br/imovel/luxo-e-sofisticacao-em-cada-detalhe-apartamento-de-alto-padrao-190m-bairro-jardim-santo-andre-sp/20903
+
+## Media
+
+### Title
+panorama_62029FB7_626C_86B7_41D4_5F60A0C6A795.label = CORREDOR
+panorama_6202AE45_626C_89CA_41A7_C38090DA082D.label = COZINHA
+panorama_6202B575_626C_9BCA_41BB_4AA28047EE8E.label = COZINHA
+panorama_6202249F_626F_B976_41B6_7D347A11B871.label = LAVABO
+panorama_62029128_626C_9B5A_41C7_FA71EFBC6923.label = MASTER
+panorama_6202818B_626F_7B5E_41CD_50064E29C9E9.label = MASTER_BANH
+panorama_6202899B_626C_8B7F_41D3_539D59688D3F.label = MASTER_BANHO_ENTRA
+panorama_62029872_626C_89CE_41D8_3F458612C464.label = MASTER_CLOSET
+panorama_6202164E_626F_99D9_41D2_02B011E0908F.label = NAHO EMPRE
+panorama_62020EDD_626F_86FA_41D0_D3D3EBC183F7.label = QUARTO EMPRE
+panorama_620240DE_626F_FAF9_41C6_603A29CF8852.label = SALA
+panorama_620247D6_626F_86C9_41BD_525DB25EB606.label = SALA
+panorama_62024F10_626F_874A_41D5_BBB0E6A77110.label = SUT ESQ_BANHEIRO
+panorama_6202737C_626F_9FB9_41D2_F12ADEB8B64A.label = SUT_DIR
+panorama_62026C1A_626F_8979_41D4_1F93EB6F7DD0.label = SUT_DIR_BANH
+panorama_6202651F_626F_BB76_41A6_C85CF12FEE64.label = SUT_DIR_ENTR
+panorama_62025649_626F_99DA_41D0_0354614BA2A3.label = SUT_ESQ
+panorama_62025DF8_626F_8AB9_41D3_561C73499F68.label = SUT_ESQU_ENTRA
+panorama_620232AC_626F_995A_41A4_DC18AD064059.label = VARANDA
+panorama_62022BD7_626F_8EF6_41D5_4DBF59F3655A.label = VARANDA GOURMET
+panorama_62021DB6_626F_8AB6_41C9_DF6CA5FBBF7A.label = ÁREA SERVIÇO
+panorama_620207E7_626F_86D6_41D3_2DFA45D9FC3F.label = ÁREA TECNICA
+panorama_6202005E_626F_79F6_41C0_358EBCA35ED0.label = ÁREA TECNICA
+
+## Tour
+
+### Description
+
+### Title
+tour.name = COD_20903
